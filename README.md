@@ -18,7 +18,7 @@ La base de datos utilizada para este proyecto se encuentra en el archivo "orders
 En la fase inicial de preparación de datos, se hizo lo siguiente:
 1. Carga de data e inspección.
 2. Validación de datos nulos.
-3. Validación de tipos de datos.
+3. Transformación de tipos de datos.
 
 ### Conexión con SQL Server
 
