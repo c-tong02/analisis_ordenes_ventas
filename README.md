@@ -2,7 +2,7 @@
 
 ### Descripción del proyecto
 
-El objetivo de este proyecto analizar la data de ventas de un marketplace y encontrar insights valiosos para la toma de decisiones.
+El objetivo de este proyecto es analizar la data de ventas de un negocio retail y encontrar insights valiosos para la toma de decisiones.
 
 ### Fuentes de dato
 
