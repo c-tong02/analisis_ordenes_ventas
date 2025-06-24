@@ -10,7 +10,7 @@ La base de datos utilizada para este proyecto se encuentra en el archivo "orders
 
 ### Herramientas
 
-- Python - EDA
+- Jupyter Notebook - EDA
 - SQL Server - Análisis con queries
 
 ### Limpieza / preparación de datos
